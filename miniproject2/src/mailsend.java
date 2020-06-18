@@ -28,7 +28,7 @@ public static void sendmail(String recepient) throws MessagingException
 	properties.put("mail.smtp.port", "587");
 	
 	String myAccountEmail="divyesh.tharakan@gmail.com";
-	String password="divyesh0412";
+	String password="****************************************";
 	
 	Session session=Session.getInstance(properties, new Authenticator(){
 		@Override
