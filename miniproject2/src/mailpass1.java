@@ -14,7 +14,7 @@ public static void main(String args[])
 
 	try 
 	{
-		Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+		Email email=new Email("divyesh.tharakan@gmail.com","**************************");
 		email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 		email.setSubject("Reset your password");
 		email.setContent("Hi,<br><br>This email is for resetting your password.<br>Before changing your "
