@@ -14,7 +14,7 @@ public static void main(String args[])
 
 	try 
 	{
-		Email email=new Email("divyesh.tharakan@gmail.com","***********");
+		Email email=new Email("divyesh.tharakan@gmail.com","****************************");
 		email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 		email.setSubject("Welcome To Training and Placement Portal"+" "+studentregister.txtName.getText());
 		email.setContent("Greetings from MIT ADT University,<br><br>"
