@@ -49,7 +49,7 @@ public static void main(String args[])
         ResultSet rs=ps.executeQuery();
         while(rs.next())
         {
-		Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+		Email email=new Email("divyesh.tharakan@gmail.com","*****************************");
 		email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 		email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -111,7 +111,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -173,7 +173,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -236,7 +236,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -298,7 +298,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -361,7 +361,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -423,7 +423,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -486,7 +486,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -549,7 +549,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
@@ -612,7 +612,7 @@ public static void main(String args[])
 	        ResultSet rs=ps.executeQuery();
 	        while(rs.next())
 	        {
-			Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+			Email email=new Email("divyesh.tharakan@gmail.com","***************************");
 			email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 			email.setSubject(admindash.v+" "+"Opportunity from"+" "+admindash.name.getText());
 
