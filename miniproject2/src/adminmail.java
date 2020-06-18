@@ -14,7 +14,7 @@ public static void main(String args[])
 
 	try 
 	{
-		Email email=new Email("divyesh.tharakan@gmail.com","divyesh0412");
+		Email email=new Email("divyesh.tharakan@gmail.com","**********");
 		email.setFrom("divyesh.tharakan@gmail.com","Divyesh Tharakan");
 		email.setSubject("Verify One-Time Code to register at Training and Placement");
 		email.setContent("Hi admin,<br<br>Verify the code below to complete your registration and make sure "+adminregister.t3.getText()+" is your correct email id"
